@@ -1,1 +1,1 @@
-# odin-recipes
+Recipes Solutions. My job is to create a recipe website using HTML. This will help me not only improve my memory on HTML format but also help me to remember how to navigate git and github, specifically through terminal.
